@@ -148,3 +148,10 @@ fifth, sixth habit.
 
 More can get added later. But only once checking in every night is *itself* the
 habit.
+
+---
+
+## License
+
+[MIT](./LICENSE) — take it, fork it, change the three habits to your own. If it
+helps you show up, that's the whole point.
