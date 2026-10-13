@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+
+# Machine-specific launcher: it hardcodes this laptop's Python path and
+# project folder, so it is no use to anyone cloning. Use the .bat instead.
+*.lnk
+
+# Just in case a data file is ever copied in here for a look -
+# the real one lives in ~/.daily_reset, never in the repo.
+entries.json
+entries.json.corrupt
